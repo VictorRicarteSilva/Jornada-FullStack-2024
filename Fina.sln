@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fina.Api", "Fina.api\Fina.Api.csproj", "{D6E40529-98BA-47CF-B80B-F83F8BE88B0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fina.Core", "Fina.core\Fina.Core.csproj", "{5DF8C30E-0CFB-4490-B02D-481F3C96976B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fina.Web", "Fina.Web\Fina.Web.csproj", "{4ED68842-1958-491A-B634-0871D5124D2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6E40529-98BA-47CF-B80B-F83F8BE88B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E40529-98BA-47CF-B80B-F83F8BE88B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E40529-98BA-47CF-B80B-F83F8BE88B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E40529-98BA-47CF-B80B-F83F8BE88B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF8C30E-0CFB-4490-B02D-481F3C96976B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF8C30E-0CFB-4490-B02D-481F3C96976B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF8C30E-0CFB-4490-B02D-481F3C96976B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF8C30E-0CFB-4490-B02D-481F3C96976B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED68842-1958-491A-B634-0871D5124D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED68842-1958-491A-B634-0871D5124D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED68842-1958-491A-B634-0871D5124D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED68842-1958-491A-B634-0871D5124D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5CF9DE3-5B82-4814-A148-EF00D7CEDE5D}
+	EndGlobalSection
+EndGlobal
